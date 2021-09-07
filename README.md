@@ -1,5 +1,6 @@
 # BUSINESS DATA ANALYTICS - PRODUCTION – ADVANTURE WORKS
 
+*Here is the project of my team in the Business Data Analytics subject at my university. We gained 9.5/10 for this project that is the highest score in my class.*
 ### General objectives
 
 Learning how to turn raw data into structured data and can analyze, visualize them as
